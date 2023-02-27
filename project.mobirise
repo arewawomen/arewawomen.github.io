@@ -63,7 +63,7 @@
     "uniqCompNum": 58,
     "versionPublish": "5.7.12",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mbrsiteDomain": "xlfkhp09x0",
     "usedWebp": false
   },
